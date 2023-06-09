@@ -13,7 +13,6 @@ export const FriendList = ({ friends }) => {
                     isOnline={isOnline}
                 />
             ))}
-            
         </ul>
     );
 }
